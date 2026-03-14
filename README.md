@@ -42,8 +42,7 @@ Bitcoin-Price-Prediction
 │
 ├── Dashboard
 ├── Dataset
-├── app.py
-├── forecasting.ipynb
+├── Model 
 └── README.md
 
 
